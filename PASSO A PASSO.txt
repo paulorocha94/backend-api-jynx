@@ -1,0 +1,17 @@
+- CRIAR UMA PASTA 'BACKEND'
+
+- 'npm init -y' CRIANDO A FICHA CADASTRAL DO PROJETO
+
+- 'npm i fastify' INSTALA A DEPENDENCIA DO FASTIFY
+
+- CRIOU O ARQUIVO 'package-lock.json' 
+
+- TODA INSTALAÇÃO DE DEPENDENCIA VERIFICAR NO ARQUIVO 'package.json'
+
+- ALTERAR O TYPE do package.json PARA 'module'
+
+- thunder - testar backend
+-
+-
+
+

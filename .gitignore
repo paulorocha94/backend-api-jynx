@@ -1,0 +1,5 @@
+node_modules/
+.env
+
+
+//INFORMANDO ARQUIVOS QUE NÃO DEVEM SUBIR PARA O GITHUB
